@@ -22,7 +22,7 @@ const App = () => {
         desktopImage='https://compass-ssl.xbox.com/assets/16/71/1671d5e9-1d59-4bd1-a8b9-42e6a228433d.jpg?n=GLP-2020_Hero-1084_Doom-Eternal_1920x1080.jpg'
         mobileImage='https://compass-ssl.xbox.com/assets/9b/6a/9b6acc97-58ea-4a6c-b217-a02bf43849e8.jpg?n=GLP-2020_Hero-0_Doom-Eternal_1083x609.jpg'
         heroImageAlt="this is a damn fine alt tag"
-        title='DOOM Eternal'
+        title='Test Template'
         availableDate='Available March 20, 2020'
         mainCTA = 'GET IT NOW'
         mainCTALink ='#purchaseoptions'
